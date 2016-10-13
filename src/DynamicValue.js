@@ -14,7 +14,7 @@ export default class RandomStringDV {
 
     // DynamicValue
     static identifier = 'com.luckymarmot.PawExtensions.StringGeneratorDynamicValue'
-    static title = 'Random String'
+    static title = 'Regex Randomizer'
 
     static help = 'https://github.com/luckymarmot/Paw-StringGeneratorDynamicValue'
 
